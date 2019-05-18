@@ -1,0 +1,8 @@
+id<#-#>00010
+date<#-#>13/12/2018 - 12:50:01
+titre<#-#>L'Incroyable Hulk
+sortie<#-#>2008
+url<#-#>https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+summary<#-#>Le scientifique Bruce Banner cherche désespérément un antidote aux radiations qui ont créé Hulk. Il vit dans l'ombre et parcourt la planète à la recherche d'un remède. La force destructrice de Hulk attire le Général Thaddeus E. Ross et son bras droit Blonsky qui rêvent de l'utiliser à des fins militaires. Ils tentent de développer un sérum pour créer des soldats surpuissants.
+categorie<#-#>Heros
+trailer<#-#>xbqNb2PFKKA

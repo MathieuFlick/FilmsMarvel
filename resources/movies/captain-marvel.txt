@@ -1,0 +1,8 @@
+id<#-#>00023
+date<#-#>13/12/2018 - 13:00:00
+titre<#-#>Captain Marvel
+sortie<#-#>2019
+url<#-#>https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+summary<#-#>Captain Marvel raconte l’histoire de Carol Danvers qui va devenir l’une des super-héroïnes les plus puissantes de l’univers lorsque la Terre se révèle l’enjeu d’une guerre galactique entre deux races extraterrestres. 
+categorie<#-#>Heros
+trailer<#-#>0LHxvxdRnYc

@@ -1,0 +1,8 @@
+id<#-#>00024
+date<#-#>13/12/2018 - 13:00:37
+titre<#-#>AvengersEnd game
+sortie<#-#>2019
+url<#-#>https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+summary<#-#>Après que Thanos a effacé la moitié de toute la vie dans l'univers, les Vengeurs restants doivent faire le nécessaire pour annuler l'action de Mad Titan.
+categorie<#-#>Teams
+trailer<#-#>VtRDE5GnU2Y

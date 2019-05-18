@@ -1,0 +1,8 @@
+id<#-#>00016
+date<#-#>13/12/2018 - 13:03:30
+titre<#-#>Venom
+sortie<#-#>2018
+url<#-#>https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_.jpg
+summary<#-#>En enquêtant sur l'une des expériences de Drake, le Venin extraterrestre fusionne avec le corps d'Eddie, et il a soudain de nouvelles superpuissances incroyables, ainsi que la chance de faire tout ce qu'il veut. Sombre, imprévisible et alimenté par la rage, Venom laisse Eddie lutter pour contrôler des capacités dangereuses qu'il trouve aussi stimulantes et enivrantes. Eddie et Venom ont besoin l'un de l'autre pour obtenir ce qu'ils recherchent, ils s'entremêlent de plus en plus - où Eddie finit-il et Venom commence-t-il ?
+categorie<#-#>Vilains
+trailer<#-#>xLCn88bfW1o

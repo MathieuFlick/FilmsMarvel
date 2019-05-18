@@ -1,0 +1,8 @@
+id<#-#>00018
+date<#-#>13/12/2018 - 12:56:20
+titre<#-#>Ant-Man
+sortie<#-#>2015
+url<#-#>https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_.jpg
+summary<#-#>Doté de la capacité étonnante de rétrécir considérablement sa taille tout en multipliant sa force, Scott Lang, voleur professionnel, doit accepter le héros qui sommeille en lui afin de venir en aide à son mentor, le docteur Hank Pym, et ainsi protéger les secrets technologiques que renferme son costume. Face à une nouvelle génération d'opposants, Lang et Pym doivent mettre au point, et réussir, un audacieux cambriolage qui pourrait sauver le monde.
+categorie<#-#>Heros
+trailer<#-#>pWdKf3MneyI

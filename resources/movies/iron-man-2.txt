@@ -1,0 +1,8 @@
+id<#-#>00008
+date<#-#>13/12/2018 - 12:49:08
+titre<#-#>Iron Man 2
+sortie<#-#>2010
+url<#-#>https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_.jpg
+summary<#-#>Le monde sait désormais que l'inventeur milliardaire Tony Stark et le super-héros Iron Man ne font qu'un. Malgré la pression du gouvernement, de la presse et du public pour qu'il partage sa technologie avec l'armée, Tony n'est pas disposé à divulguer les secrets de son armure, redoutant que l'information atterrisse dans de mauvaises mains.
+categorie<#-#>Heros
+trailer<#-#>wKtcmiifycU

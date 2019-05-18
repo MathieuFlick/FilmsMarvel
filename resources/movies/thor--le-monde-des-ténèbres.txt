@@ -1,0 +1,8 @@
+id<#-#>00013
+date<#-#>13/12/2018 - 12:53:16
+titre<#-#>Thor : Le Monde des ténèbres
+sortie<#-#>2013
+url<#-#>https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SY1000_SX700_AL_.jpg
+summary<#-#>Alors que sur Terre, l'astrophysicienne Jane Foster, grand amour de Thor, trouve par hasard une substance mystérieuse, l'Éther, que beaucoup croyaient perdue depuis longtemps, Thor part délivrer son frère adoptif, Loki, dans sa prison d'Asgard, car il a besoin de son aide. En effet, Malekith, un elfe noir jadis vaincu par Odin et les siens est de retour.
+categorie<#-#>Heros
+trailer<#-#>uK4zjyxAMd8

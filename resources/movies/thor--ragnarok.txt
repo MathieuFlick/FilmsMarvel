@@ -1,0 +1,8 @@
+id<#-#>00014
+date<#-#>13/12/2018 - 12:53:57
+titre<#-#>Thor : Ragnarok
+sortie<#-#>2017
+url<#-#>https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+summary<#-#>Privé de son puissant marteau, Thor est retenu prisonnier sur une lointaine planète aux confins de l'univers. Pour sauver Asgard, il va devoir lutter contre le temps afin d'empêcher l'impitoyable Hela d'accomplir le Ragnarök, ou la destruction de son monde et la fin de la civilisation asgardienne. Pour y parvenir, il va d'abord devoir mener un combat titanesque de gladiateurs contre celui qui était autrefois son allié au sein des Avengers : l'incroyable Hulk.
+categorie<#-#>Heros
+trailer<#-#>ue80QwXMRHg

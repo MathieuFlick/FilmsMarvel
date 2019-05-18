@@ -1,0 +1,8 @@
+id<#-#>00020
+date<#-#>13/12/2018 - 12:58:05
+titre<#-#>Doctor Strange
+sortie<#-#>2016
+url<#-#>https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+summary<#-#>Doctor Strange suit l'histoire du Docteur Stephen Strange, talentueux neurochirurgien qui, après un tragique accident de voiture, doit mettre son égo de côté et apprendre les secrets d'un monde caché de mysticisme et de dimensions alternatives. Basé à New York, Doctor Strange doit jouer les intermédiaires entre le monde réel et ce qui se trouve au-delà, en utlisant un vaste éventail d'aptitudes métaphysiques et d'artefacts pour protéger le Marvel Cinematic Universe.
+categorie<#-#>Heros
+trailer<#-#>HSzx-zryEgM

@@ -1,0 +1,8 @@
+id<#-#>00009
+date<#-#>13/12/2018 - 12:49:32
+titre<#-#>Iron Man 3
+sortie<#-#>2013
+url<#-#>https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SY1000_SX700_AL_.jpg
+summary<#-#>Tony Stark, l'industriel flamboyant qui est aussi Iron Man, est confronté cette fois à un ennemi qui va attaquer sur tous les fronts. Lorsque son univers personnel est détruit, Stark se lance dans une quête acharnée pour retrouver les coupables. Plus que jamais, son courage va être mis à l'épreuve, à chaque instant. Dos au mur, il ne peut plus compter que sur ses inventions, son ingéniosité, et son instinct pour protéger ses proches.
+categorie<#-#>Heros
+trailer<#-#>Ke1Y3P9D0Bc

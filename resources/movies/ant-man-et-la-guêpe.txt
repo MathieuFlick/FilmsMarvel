@@ -1,0 +1,8 @@
+id<#-#>00022
+date<#-#>13/12/2018 - 12:59:18
+titre<#-#>Ant-Man et la guêpe
+sortie<#-#>2018
+url<#-#>https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+summary<#-#>Après les événements survenus dans Captain America, Civil War, Scott Lang a bien du mal à concilier sa vie de super-héros et ses responsabilités de père. Cependant, ses réflexions sur les conséquences de ses choix tournent court lorsque Hope van Dyne et le Dr Hank Pym lui confient une nouvelle mission urgente. Scott va devoir renfiler son costume et apprendre à se battre aux côtés de La Guêpe afin de faire la lumière sur des secrets enfouis de longue date.
+categorie<#-#>Heros
+trailer<#-#>A5jzpMR6rv4

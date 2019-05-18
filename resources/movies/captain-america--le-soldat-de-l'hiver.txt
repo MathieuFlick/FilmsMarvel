@@ -1,0 +1,8 @@
+id<#-#>00003
+date<#-#>13/12/2018 - 12:46:59
+titre<#-#>Captain America : Le Soldat de l'hiver
+sortie<#-#>2014
+url<#-#>https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_SY1000_CR0,0,685,1000_AL_.jpg
+summary<#-#>Steve Rogers, plus connu sous le nom de Captain America, s'est adapté tant bien que mal à son nouvel environnement, et poursuit ses missions en tant qu'agent du S.H.I.E.L.D., l'agence militaire chargée d'assurer l'ordre international. Mais une organisation secrète aux desseins maléfiques a réussi à infiltrer le S.H.I.E.L.D. qu'elle gangrène de l'intérieur.
+categorie<#-#>Heros
+trailer<#-#>6mQWmUwxZjI

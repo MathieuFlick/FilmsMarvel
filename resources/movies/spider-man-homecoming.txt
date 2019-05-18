@@ -1,0 +1,8 @@
+id<#-#>00012
+date<#-#>13/12/2018 - 12:52:47
+titre<#-#>Spider-Man : Homecoming
+sortie<#-#>2017
+url<#-#>https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SY1000_CR0,0,658,1000_AL_.jpg
+summary<#-#>Après ses spectaculaires débuts avec les Avengers, le jeune Peter Parker découvre peu à peu sa nouvelle identité, celle de Spider-Man, le superhéros lanceur de toile. Galvanisé par ses expériences précédentes, Peter rentre chez lui auprès de sa tante May, sous l'oeil attentif de son nouveau mentor, Tony Stark. L'apparition d'un nouvel ennemi, le Vautour, va mettre en danger tout ce qui compte pour lui.
+categorie<#-#>Heros
+trailer<#-#>n9DwoQ7HWvI

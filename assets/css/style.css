@@ -1,0 +1,449 @@
+@font-face {
+	font-family: "marvel";
+	src: url(../font/marvel.ttf);
+}
+
+@font-face {
+	font-family: "marvel_catalogue";
+	src: url(../font/American_Captain.ttf);
+}
+
+* {
+	outline: none;
+}
+
+html {
+	height: 100vh;
+}
+
+body {
+	padding: 50px 0;
+}
+
+html,
+body {
+	background: url(../images/background.png) no-repeat;
+	background-size: cover;
+	color: #fff !important;
+}
+
+[data-toggle="tooltip"] {
+	cursor: pointer;
+}
+
+header {
+	text-align: center;
+
+}
+
+header .logo {
+	max-height: 180px;
+	height: 100%;
+	width: 100%;
+}
+
+@media screen and (min-width: 991px) {
+	header .logo {
+		width: auto !important;
+	}
+}
+
+.table-bordered {
+	border: 0 !important;
+}
+
+.title {
+	font-size: 50px;
+}
+
+.alert.alert-success {
+	background: rgb(0, 200, 0);
+	border-color: rgb(0, 200, 0);
+	color: #fff;
+}
+
+.alert.alert-danger {
+	background: rgb(200, 0, 0);
+	border-color: rgb(200, 0, 0);
+	color: #fff;
+}
+
+.alert code {
+	color: #fff !important;
+	font-weight: 600;
+}
+
+.container#listings {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.listing-display span {
+	padding-right: 2.5%;
+	padding-left: 2.5%;
+	padding-bottom: 0.75%;
+
+}
+
+#marvel {
+	font-family: "marvel";
+	border: 2px solid white;
+	padding: 3px;
+	background: rgba(232, 17, 39, 1);
+	color: white;
+	padding: 17.5px 10px 13.2px;
+	border: 1px solid rgba(232, 17, 39, 1);
+}
+
+#marvel h3 {
+	display: inherit;
+	font-size: 45px;
+	font-weight: 400;
+	letter-spacing: 2px
+}
+
+#catalogue {
+	font-family: "marvel_catalogue";
+	font-size: 26px;
+	letter-spacing: 2px;
+	color: rgba(232, 17, 39, 1);
+	border-top: 3px solid rgba(232, 17, 39, 1);
+	border-bottom: 3px solid rgba(232, 17, 39, 1);
+	border-left: 3px solid rgba(232, 17, 39, 1);
+	padding-top: 10.5px;
+	font-size: 35px;
+	padding-bottom: 10px;
+
+}
+
+nav {
+	font-family: "marvel_catalogue";
+	background-color: rgba(232, 17, 39, 1);
+}
+
+.menu {
+	margin: 0 auto 50px;
+}
+
+.menu ul {
+
+	background-color: rgba(232, 17, 39, 1);
+	box-shadow: 0px 0px 50px -10px rgba(232, 17, 39, 0.75);
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+}
+
+.menu li a,
+.menu li a:not([href]) {
+	position: relative;
+	display: block;
+	padding: 14px;
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: bold;
+	color: white;
+	letter-spacing: 2px;
+	transition: ease .3s;
+}
+
+.menu li a:hover,
+.menu li a:not([href]):hover {
+	text-decoration: none;
+	color: white;
+	background-color: rgba(241, 196, 15, 1);
+	cursor: pointer;
+}
+
+.menu li ul {
+	display: none;
+}
+
+.menu li:hover ul {
+	position: absolute;
+	display: flex;
+	flex-direction: column;
+	padding-left: 0px;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+	z-index: 1;
+}
+
+.listing-header h3 {
+	text-transform: uppercase;
+	font-weight: 700;
+	width: 100%;
+}
+
+.listing-header .listing-display {
+	width: 100%;
+}
+
+.listing-header .listing-display span {
+	color: #bbb;
+	opacity: .5;
+	cursor: pointer;
+	transition: ease .2s;
+}
+
+.listing-header .listing-display span.active {
+	opacity: 1;
+	color: #fff;
+}
+
+.table-marvel {
+	box-shadow: 0px 0px 50px -10px rgba(232, 17, 39, 0.75);
+}
+
+.table-marvel thead {
+	background: rgba(232, 17, 39, 1);
+	color: white;
+	text-transform: uppercase;
+	border: 0;
+}
+
+.table-marvel tbody {
+	background: rgba(134, 10, 23, 1);
+	color: white;
+}
+
+.table-marvel tbody .clickable-row {
+	cursor: pointer;
+	transition: ease .2s;
+}
+
+.table-marvel tbody .clickable-row .movie-edit {
+	color: rgba(0, 255, 0, .75);
+	transition: ease .2s;
+	font-size: 14px;
+}
+
+.table-marvel tbody .clickable-row .movie-delete {
+	color: rgba(255, 0, 0, .75);
+	transition: ease .2s;
+	font-size: 14px;
+}
+
+.table-marvel tbody .clickable-row .movie-edit:hover {
+	color: rgba(0, 255, 0, 1);
+}
+
+.table-marvel tbody .clickable-row .movie-delete:hover {
+	color: rgba(255, 0, 0, 1);
+}
+
+.table-marvel tbody .clickable-row:hover {
+	background: rgb(105, 8, 18);
+}
+
+.table-marvel tbody td {
+	border: 2px solid rgb(93, 9, 18);
+	text-align: center;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.table thead th {
+	border: 2px solid rgba(134, 10, 23, 1) !important;
+	text-align: center;
+}
+
+td {
+	vertical-align: middle !important;
+}
+
+.img {
+	text-align: center;
+	width: 175px;
+}
+
+.img img {
+	height: 200px;
+	width: auto;
+}
+
+.page-content {
+	background: rgba(0, 0, 0, .5);
+	box-shadow: 0px 0px 50px 10px rgba(0, 0, 0, 0.75);
+	padding: 20px 35px;
+}
+
+.no-padding {
+	padding: 0 !important;
+}
+
+.p-r-0 {
+	padding-right: 0 !important;
+}
+
+.m-b-5 {
+	margin-bottom: 5px;
+}
+
+.m-b-10 {
+	margin-bottom: 10px;
+}
+
+.m-r-5 {
+	margin-right: 5px;
+}
+
+.m-b-20 {
+	margin-bottom: 20px !important;
+}
+
+.m-t-5 {
+	margin-top: 5px;
+}
+
+.m-t-20 {
+	margin-top: 20px;
+}
+
+.m-t-100 {
+	margin-top: 100px;
+}
+
+.movie-item {
+	padding: 15px;
+	height: 400px;
+}
+
+.movie-item .backdrop {
+	display: none;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: rgba(0, 0, 0, .75);
+	margin: 0 15px;
+	z-index: auto;
+	height: 400px;
+}
+
+.movie-item .item-content {
+	display: none;
+	z-index: 15;
+	position: relative;
+}
+
+.movie-item .item-content h3.movie-title {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-bottom: 30px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.movie-item .item-content span.movie-date {
+	font-style: italic;
+	color: rgba(255, 255, 255, .75);
+	font-weight: 400;
+}
+
+.movie-item .item-content p.movie-summary {
+	margin-top: 15px;
+	color: rgba(255, 255, 255, .75);
+	font-weight: 400;
+	height: 200px;
+	overflow: auto;
+}
+
+.movie-item .item-content a.movie-edit {
+	text-decoration: none;
+	color: rgba(0, 200, 0, .75);
+	transition: ease .2s;
+}
+
+.movie-item .item-content a.movie-edit:hover {
+	color: rgba(0, 200, 0, 1);
+}
+
+.movie-item .item-content a.movie-delete {
+	text-decoration: none;
+	color: rgba(200, 0, 0, .75);
+	transition: ease .2s;
+}
+
+.movie-item .item-content a.movie-delete:hover {
+	color: rgba(200, 0, 0, 1);
+}
+
+.movie-item:hover .backdrop,
+.movie-item:hover .item-content {
+	display: initial;
+}
+
+.description {
+	text-align: center;
+	background: rgba(0, 0, 0, .5);
+	box-shadow: 0px 0px 50px 10px rgba(0, 0, 0, 0.75);
+	padding: 20px 35px;
+}
+
+.description-text {
+	margin-left: 50px;
+	max-width: 60%;
+	padding-right: 15px;
+}
+
+.description-text h2 {
+	font-size: 45px;
+	font-weight: 700;
+	letter-spacing: -2px;
+}
+
+.description-text h3 {
+	font-size: 35px;
+	font-weight: 6	00;
+}
+
+.description-picture img {
+	height: 600px;
+	width: auto;
+}
+
+.btn-youtube {
+	background: #FFFFFF;
+	border-color: #FFFFFF;
+	color: #282828;
+}
+.btn-youtube:hover {
+	color: #FF0000;
+}
+
+.modal.fade .modal-dialog {
+	-webkit-transition: -webkit-transform 0.3s ease-out;
+	-moz-transition: -moz-transform 0.3s ease-out;
+	-o-transition: -o-transform 0.3s ease-out;
+	transition: transform 0.3s ease-out;
+}
+
+.modal.in .modal-dialog {}
+
+.description-text .movie-casting {
+	overflow: hidden;
+	width: 93%;
+}
+.description-text .movie-casting .actor-picture {
+	height: 80%;
+}
+
+.description-text .star-progress {
+	background: url(../images/star.png);
+	background-repeat: repeat-x;
+	height: 25px;
+	width: 125px;
+}
+.description-text .star-progress .star-value {
+	background: url(../images/star-filled.png);
+	background-repeat: repeat-x;
+	height: 25px;
+	position: absolute;
+}
+
+.description-text .movie-rating .fa-star.starred {
+	color: orange;
+}

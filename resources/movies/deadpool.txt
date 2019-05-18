@@ -1,0 +1,8 @@
+id<#-#>00006
+date<#-#>13/12/2018 - 12:48:12
+titre<#-#>Deadpool
+sortie<#-#>2016
+url<#-#>https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,666,1000_AL_.jpg
+summary<#-#>Wade Wilson, un ancien militaire des forces spéciales, est devenu mercenaire. Après avoir subi une expérimentation hors-norme qui va accélérer ses pouvoirs de guérison, il va devenir Deadpool. Armé de ses nouvelles capacités et d'un humour noir survolté, il va traquer l'homme qui a bien failli anéantir sa vie.
+categorie<#-#>Heros
+trailer<#-#>PCf03KXyzIg

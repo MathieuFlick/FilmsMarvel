@@ -1,0 +1,8 @@
+id<#-#>00017
+date<#-#>13/12/2018 - 13:03:13
+titre<#-#>Avengers : L'Ère d'Ultron
+sortie<#-#>2015
+url<#-#>https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SY1000_SX675_AL_.jpg
+summary<#-#>Alors qu'il tente de récupérer le sceptre de Loki avec l'aide de ses camarades Avengers, Tony Stark découvre que Strucker avait mis au point une intelligence artificielle révolutionnaire, plus puissante encore que Jarvis. Strucker, mis hors d'état de nuire, et le sceptre récupéré, Stark conçoit bientôt un projet insensé : relancer son programme de maintien de la paix, jusque-là en sommeil, grâce à cette conscience robotisée ultra-puissante.
+categorie<#-#>Teams
+trailer<#-#>ANbZ-zJ7Ig8

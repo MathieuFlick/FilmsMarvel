@@ -1,0 +1,8 @@
+id<#-#>00015
+date<#-#>13/12/2018 - 12:54:32
+titre<#-#>Thor
+sortie<#-#>2011
+url<#-#>https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+summary<#-#>Au royaume d'Asgard, Thor est un guerrier aussi puissant qu'arrogant dont les actes téméraires déclenchent une guerre ancestrale. Banni et envoyé sur Terre, par son père Odin, il est condamné à vivre parmi les humains. Cependant, lorsque les forces du mal de son royaume s'apprêtent à se déchaîner sur la Terre, Thor va apprendre à se comporter en véritable héros.
+categorie<#-#>Heros
+trailer<#-#>JOddp-nlNvQ

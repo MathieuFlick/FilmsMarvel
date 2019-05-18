@@ -1,0 +1,8 @@
+id<#-#>00004
+date<#-#>13/12/2018 - 12:47:39
+titre<#-#>Captain America : First Avenger
+sortie<#-#>2011
+url<#-#>https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_SY1000_CR0,0,640,1000_AL_.jpg
+summary<#-#>Steve Rogers, frêle et timide, se porte volontaire pour participer à un programme expérimental qui va le transformer en un super soldat connu sous le nom de Captain America.
+categorie<#-#>Heros
+trailer<#-#>bmWLLempSyI

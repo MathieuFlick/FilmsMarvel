@@ -1,0 +1,8 @@
+id<#-#>00001
+date<#-#>13/12/2018 - 12:51:32
+titre<#-#>Avengers
+sortie<#-#>2012
+url<#-#>https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+summary<#-#>Nick Fury, le directeur du S.H.I.E.L.D., l'organisation qui préserve la paix dans le monde, veut former une équipe d'irréductibles pour empêcher la destruction du monde. Iron Man, Hulk, Thor, Captain America, Hawkeye et Black Widow répondent présents. La nouvelle équipe, baptisée Avengers, a beau sembler soudée, il reste encore à ses illustres membres à apprendre à travailler ensemble.
+categorie<#-#>Teams
+trailer<#-#>eOrNdBpGMv8

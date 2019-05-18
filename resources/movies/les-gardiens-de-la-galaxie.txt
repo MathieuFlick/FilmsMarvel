@@ -1,0 +1,8 @@
+id<#-#>00011
+date<#-#>13/12/2018 - 12:50:51
+titre<#-#>Les Gardiens de la Galaxie Vol. 1
+sortie<#-#>2014
+url<#-#>https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SY1000_CR0,0,674,1000_AL_.jpg
+summary<#-#>Peter Quill est un aventurier traqué par tous les chasseurs de primes pour avoir volé un mystérieux globe convoité par le puissant Ronan, dont les agissements menacent l'univers tout entier. Lorsqu'il découvre le véritable pouvoir de ce globe et la menace qui pèse sur la galaxie, il conclut une alliance fragile avec quatre extraterrestres disparates. 
+categorie<#-#>Teams
+trailer<#-#>ry19UYQoAro
